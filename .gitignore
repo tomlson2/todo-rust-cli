@@ -1,0 +1,40 @@
+# Cargo targets directory
+target/
+
+# Rust generated files
+/Cargo.lock
+/rust-toolchain
+
+# Compiled binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Source code backups
+*.bak
+
+# IntelliJ IDEA files
+.idea/
+
+# Rustup files
+.rustup/
+
+# Rust documentation files
+/target/doc/
+
+# OS X files
+.DS_Store
+
+# Editor backups
+*~
+
+# Generated files
+/build/
+
+# Test artifacts
+/tests/target/
+
+# Build artifacts
+/target/debug/
+/target/release/
